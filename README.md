@@ -26,14 +26,15 @@ streamlit-plotly-events==0.6.0
 ---
 
 ## 3. Installation
+```txt
 - git clone <project_url>
     cd covid_simulator
 - python -m venv venv
     source venv/bin/activate  # Linux / Mac
     venv\Scripts\activate     # Windows
 - pip install -r requirements.txt
-
+```
 ---
 
 ## 4. Run the Application
-- streamlit run src/main.py
+- `streamlit run src/main.py`
